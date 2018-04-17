@@ -1,0 +1,3 @@
+[submodule "cpp_bindings"]
+	path = cpp_bindings
+	url = git@github.com:GodotNativeTools/godot-cpp.git
